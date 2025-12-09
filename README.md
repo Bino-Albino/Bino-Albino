@@ -8,7 +8,7 @@ Right now I’m focused on creating practical detection labs and experimenting w
 This is mostly a learning space for me, but also something I hope can be useful or interesting to others working in security.
 
 ## Projects
-- [Detection & Response Homelab](PUT_YOUR_REPO_LINK_HERE) - A functional SOC simulation using **Wazuh**, with threat emulation, active response and integration with logs from various sources.
+- [Detection & Response Homelab](https://github.com/Bino-Albino/Detection-and-Response-Homelab) - A functional SOC simulation using **Wazuh**, with threat emulation, active response and integration with logs from various sources.
 
 ## Tools & Technologies
 <div>
