@@ -1,7 +1,7 @@
 # Hello, I'm Vlad
 <a href="https://linkedin.com/in/vladyslav-strelbitskiy"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have experience working as a SOC analyst where I spent my time investigating alerts, digging through logs and learning how real attacks look in a security environment. I still really enjoy the blue-team side of security and I’m using this GitHub as a place to build and share projects while I continue learning.
+As a SOC analyst where I spent my time investigating alerts, digging through logs and learning how real attacks look in a security environment. I still really enjoy the blue-team side of security and I’m using this GitHub as a place to build and share projects while I continue learning.
 
 ## Objective
 Right now I’m focused on creating practical detection labs and experimenting with tools I’ve used in the past. I want to simulate attacker behaviour, build detections around it, and document what I learn along the way.
